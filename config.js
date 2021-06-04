@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Mai à!',
-    introDesc: `chúng ta
-    có thể
-    yêu lại
-    từ đầu được không!?`,
-    btnIntro: 'Xem đã',
-    title: 'Anh không thể nào quên em được, thật sự anh không muốn để em thành ra như bây giờ 😙',
-    desc: 'Anh biết tuổi 17 sẽ không thể lâu dài,nhưng anh biết điều gì nếu chúng ta cố gắng ',
-    btnYes: 'Em còn yêu anh mà <33',
-    btnNo: 'Không, em không thích :3',
-    question:'cho anh một cơ hội được không Mai !?',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'em sẽ cho anh một cô hội chứ !?',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'chúng ta bắt đầu bất cứ lúc nào em muốn, anh vẫn luôn đợi ở đây.',
+    introTitle: 'Chào bạn!',
+    introDesc: `Bạn có thể
+    trả lời câu
+    hỏi này
+    được không!?`,
+    btnIntro: 'ok nè',
+    title: 'Bạn biết những điều gì từ tôi😙',
+    desc: 'trả lời xen nào ',
+    btnYes: 'ok luôn',
+    btnNo: 'không thích trả lời :3',
+    question:'gửi câu trả lời vào đây !?',
+    btnReply: 'Gửi cho tôi<3',
+    reply: 'Vào messenger để viết ra câu trả lời nhé !?',
+    mess: 'Tôi sẽ đưa bạn vào trang facebook của bạn!!!',
+    messDesc: 'vào mesenger gửi câu trả lời nhé.',
     btnAccept: 'Ok ạ <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
